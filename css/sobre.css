@@ -35,3 +35,21 @@ figure img{
   height: inherit;
   width: inherit;
 }
+
+.subtitulo__contato{
+  display: inline;
+}
+
+.contato__info{
+  margin: 16px 0 24px;
+  padding-left: 32px;
+}
+
+.contato__info-titulo,
+.contato__info-descricao{
+  display: inline;
+}
+
+.contato__info-descricao{
+  margin-left: 10px;
+}
